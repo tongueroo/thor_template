@@ -1,7 +1,7 @@
 # ThorTemplate
 
 
-[![Build Status](https://travis-ci.org/tongueroo/thor_template.svg?branch=generator)](https://travis-ci.org/tongueroo/thor_template)
+[![Build Status](https://travis-ci.org/tongueroo/thor_template.svg?branch=master)](https://travis-ci.org/tongueroo/thor_template)
 [![Code Climate](https://codeclimate.com/github/tongueroo/thor_template.png)](https://codeclimate.com/github/tongueroo/thor_template)
 
 To these the thor_template, run these commands:
